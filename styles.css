@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* styles.css or global.css */
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('/fonts/Coopers Town.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
